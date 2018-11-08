@@ -1,6 +1,6 @@
 A *Python* app which target to demo how to use MQTT to connect to a solace instance in the cloud foundry platform.
 
-The app use the paho lib, so add *paho-mqtt* in your *requirements.txt*
+The app use the paho lib, so add [paho-mqtt](https://github.com/eclipse/paho.mqtt.python) in your *requirements.txt*
 
 **How to use it:**
 
