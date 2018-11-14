@@ -13,7 +13,7 @@ The app use the paho lib, so add [paho-mqtt](https://github.com/eclipse/paho.mqt
 The app contains to url,
 
 - http://{link_to_app}/mqtt/solace/subscribe add a new subscriber to the topic: _python_mqtt_topic_example_
-- http://{link_to_app}/mqtt/solace/subscribe publish a message to the topic: _python_mqtt_topic_example_
+- http://{link_to_app}/mqtt/solace/publish publish a message to the topic: _python_mqtt_topic_example_
 
 and check the app log and the connections in the soladmin/gui to verify.
  
